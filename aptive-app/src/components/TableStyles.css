@@ -1,0 +1,90 @@
+.table {
+    width: 100%;
+    margin-top: 3.5rem;
+}
+.app-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+    max-width: 1240px;
+    background-color: #fff;
+    overflow: hidden;
+  }
+
+.app-container .top-content {
+    padding-bottom: 4rem;
+}
+
+.app-container .top-content h2 {
+    padding-bottom: .5rem;
+}
+
+.app-container .top-content span {
+    color: var(--primary);
+}
+  
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  
+  th {
+    border: 1px solid var(--darkgrey);
+    text-align: center;
+    padding: 5px;
+    font-size: 1.2rem;
+    background-color: var(--primary);
+  }
+
+  td {
+    border: 1px solid var(--darkgrey);
+    text-align: center;
+    padding: 2px;
+    font-size: 1rem;
+    background-color: #fff;
+  }
+
+  .app-container .table-h2 {
+    padding-top: 2rem;
+  }
+
+  .app-container .table-h2 span {
+    color: var(--primary);
+  }
+
+  .input-container {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    font-size: 28px;
+    padding-bottom: 2rem;
+  }
+  
+  form td:last-child {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+@media screen and (max-width:960px) {
+  button {
+    grid-template-columns: 1fr;
+  }
+
+  th{
+    font-size: .75rem;
+  }
+
+  td {
+    font-size: .75rem;
+  }
+
+  .app-container .table-h2{
+    text-align: center;
+    font-size: 20px;
+  }
+
+}
+  

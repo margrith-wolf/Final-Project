@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "James Smith",
+      "address": "1234 Sunset Blvd",
+      "phoneNumber": "754-989-0078",
+      "email": "j.smith@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Abigail Penny",
+      "address": "55 S Township Blvd",
+      "phoneNumber": "345-876-9098",
+      "email": "abby.penny@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Frank",
+      "address": "5800 Warren Rd",
+      "phoneNumber": "980-543-1214",
+      "email": "tonyfrank@hotmail.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Jeremy Clark",
+      "address": "333 Milltown Rd",
+      "phoneNumber": "208-767-5543",
+      "email": "jclark@gmail.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Raymond Norton",
+      "address": "954 E Straughan St",
+      "phoneNumber": "540-760-9876",
+      "email": "rnorton@yahoo.com"
+    }
+  ]
